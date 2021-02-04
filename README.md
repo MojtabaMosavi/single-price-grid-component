@@ -1,3 +1,3 @@
 # single-price-grid-component
 single-price-grid-component
-<img src="design/desktop-design.png>
+<img src="design/desktop-design.jpg>
